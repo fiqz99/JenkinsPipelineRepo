@@ -29,6 +29,7 @@ pipeline {
                             )
                         ])
                     ])
+                    echo 'Nesto'
                 }
             }
         }
